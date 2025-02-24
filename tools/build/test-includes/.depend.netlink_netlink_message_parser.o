@@ -1,0 +1,2 @@
+netlink_netlink_message_parser.o: netlink_netlink_message_parser.c \
+  /home/sfymmik/NSAS-OS-build/home/sfymmik/NSAS-OS-PRE-ALPHA/amd64.amd64/tmp/usr/include/netlink/netlink_message_parser.h

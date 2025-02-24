@@ -1,0 +1,2 @@
+netinet6_ip6_ecn.o: netinet6_ip6_ecn.c \
+  /home/sfymmik/NSAS-OS-build/home/sfymmik/NSAS-OS-PRE-ALPHA/amd64.amd64/tmp/usr/include/netinet6/ip6_ecn.h

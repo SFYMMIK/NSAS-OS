@@ -1,0 +1,2 @@
+sys_queue_mergesort.o: sys_queue_mergesort.c \
+  /home/sfymmik/NSAS-OS-build/home/sfymmik/NSAS-OS-PRE-ALPHA/amd64.amd64/tmp/usr/include/sys/queue_mergesort.h

@@ -1,0 +1,1 @@
+#include <sys/splash.h>

@@ -1,0 +1,2 @@
+netgraph_ng_split.o: netgraph_ng_split.c \
+  /home/sfymmik/NSAS-OS-build/home/sfymmik/NSAS-OS-PRE-ALPHA/amd64.amd64/tmp/usr/include/netgraph/ng_split.h

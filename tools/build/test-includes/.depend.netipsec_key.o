@@ -1,0 +1,2 @@
+netipsec_key.o: netipsec_key.c \
+  /home/sfymmik/NSAS-OS-build/home/sfymmik/NSAS-OS-PRE-ALPHA/amd64.amd64/tmp/usr/include/netipsec/key.h

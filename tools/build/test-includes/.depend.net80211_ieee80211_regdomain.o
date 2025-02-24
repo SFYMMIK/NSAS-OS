@@ -1,0 +1,2 @@
+net80211_ieee80211_regdomain.o: net80211_ieee80211_regdomain.c \
+  /home/sfymmik/NSAS-OS-build/home/sfymmik/NSAS-OS-PRE-ALPHA/amd64.amd64/tmp/usr/include/net80211/ieee80211_regdomain.h

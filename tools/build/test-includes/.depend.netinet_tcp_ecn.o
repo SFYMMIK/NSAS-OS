@@ -1,0 +1,2 @@
+netinet_tcp_ecn.o: netinet_tcp_ecn.c \
+  /home/sfymmik/NSAS-OS-build/home/sfymmik/NSAS-OS-PRE-ALPHA/amd64.amd64/tmp/usr/include/netinet/tcp_ecn.h

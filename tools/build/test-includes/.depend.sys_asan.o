@@ -1,0 +1,2 @@
+sys_asan.o: sys_asan.c \
+  /home/sfymmik/NSAS-OS-build/home/sfymmik/NSAS-OS-PRE-ALPHA/amd64.amd64/tmp/usr/include/sys/asan.h

@@ -1,0 +1,10 @@
+# /etc/os-release
+#
+# See os-release(5) for more details.
+NAME="NSAS-OS"
+VERSION="0.1-PRE-ALPHA"
+ID=freebsd
+ANSI_COLOR="1;31"
+HOME_URL="https://github.com/SFYMMIK"
+SUPPORT_URL="https://github.com/SFYMMIK/NSAS-OS"
+BUG_REPORT_URL="https://github.com/SFYMMIK/NSAS-OS"

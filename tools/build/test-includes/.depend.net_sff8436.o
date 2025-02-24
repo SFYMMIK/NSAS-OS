@@ -1,0 +1,2 @@
+net_sff8436.o: net_sff8436.c \
+  /home/sfymmik/NSAS-OS-build/home/sfymmik/NSAS-OS-PRE-ALPHA/amd64.amd64/tmp/usr/include/net/sff8436.h

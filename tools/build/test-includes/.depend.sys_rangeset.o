@@ -1,0 +1,2 @@
+sys_rangeset.o: sys_rangeset.c \
+  /home/sfymmik/NSAS-OS-build/home/sfymmik/NSAS-OS-PRE-ALPHA/amd64.amd64/tmp/usr/include/sys/rangeset.h

@@ -1,0 +1,2 @@
+sys_abi_compat.o: sys_abi_compat.c \
+  /home/sfymmik/NSAS-OS-build/home/sfymmik/NSAS-OS-PRE-ALPHA/amd64.amd64/tmp/usr/include/sys/abi_compat.h

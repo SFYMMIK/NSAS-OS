@@ -1,0 +1,2 @@
+netgraph_ng_rfc1490.o: netgraph_ng_rfc1490.c \
+  /home/sfymmik/NSAS-OS-build/home/sfymmik/NSAS-OS-PRE-ALPHA/amd64.amd64/tmp/usr/include/netgraph/ng_rfc1490.h

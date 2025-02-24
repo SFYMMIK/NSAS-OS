@@ -1,0 +1,2 @@
+netinet_tcp_syncache.o: netinet_tcp_syncache.c \
+  /home/sfymmik/NSAS-OS-build/home/sfymmik/NSAS-OS-PRE-ALPHA/amd64.amd64/tmp/usr/include/netinet/tcp_syncache.h

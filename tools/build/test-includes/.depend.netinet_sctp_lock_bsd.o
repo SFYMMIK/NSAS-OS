@@ -1,0 +1,2 @@
+netinet_sctp_lock_bsd.o: netinet_sctp_lock_bsd.c \
+  /home/sfymmik/NSAS-OS-build/home/sfymmik/NSAS-OS-PRE-ALPHA/amd64.amd64/tmp/usr/include/netinet/sctp_lock_bsd.h

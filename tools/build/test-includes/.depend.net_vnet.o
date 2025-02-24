@@ -1,0 +1,2 @@
+net_vnet.o: net_vnet.c \
+  /home/sfymmik/NSAS-OS-build/home/sfymmik/NSAS-OS-PRE-ALPHA/amd64.amd64/tmp/usr/include/net/vnet.h

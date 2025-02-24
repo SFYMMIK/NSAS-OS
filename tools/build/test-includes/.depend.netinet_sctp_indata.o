@@ -1,0 +1,2 @@
+netinet_sctp_indata.o: netinet_sctp_indata.c \
+  /home/sfymmik/NSAS-OS-build/home/sfymmik/NSAS-OS-PRE-ALPHA/amd64.amd64/tmp/usr/include/netinet/sctp_indata.h

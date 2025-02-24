@@ -1,0 +1,2 @@
+netinet6_in6_pcb.o: netinet6_in6_pcb.c \
+  /home/sfymmik/NSAS-OS-build/home/sfymmik/NSAS-OS-PRE-ALPHA/amd64.amd64/tmp/usr/include/netinet6/in6_pcb.h

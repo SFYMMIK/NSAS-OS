@@ -1,0 +1,2 @@
+netinet6_sctp6_var.o: netinet6_sctp6_var.c \
+  /home/sfymmik/NSAS-OS-build/home/sfymmik/NSAS-OS-PRE-ALPHA/amd64.amd64/tmp/usr/include/netinet6/sctp6_var.h

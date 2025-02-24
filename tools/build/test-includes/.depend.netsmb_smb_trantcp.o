@@ -1,0 +1,2 @@
+netsmb_smb_trantcp.o: netsmb_smb_trantcp.c \
+  /home/sfymmik/NSAS-OS-build/home/sfymmik/NSAS-OS-PRE-ALPHA/amd64.amd64/tmp/usr/include/netsmb/smb_trantcp.h

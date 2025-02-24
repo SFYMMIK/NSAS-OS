@@ -1,0 +1,2 @@
+net_if_clone.o: net_if_clone.c \
+  /home/sfymmik/NSAS-OS-build/home/sfymmik/NSAS-OS-PRE-ALPHA/amd64.amd64/tmp/usr/include/net/if_clone.h

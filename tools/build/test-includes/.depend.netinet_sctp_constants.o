@@ -1,0 +1,2 @@
+netinet_sctp_constants.o: netinet_sctp_constants.c \
+  /home/sfymmik/NSAS-OS-build/home/sfymmik/NSAS-OS-PRE-ALPHA/amd64.amd64/tmp/usr/include/netinet/sctp_constants.h

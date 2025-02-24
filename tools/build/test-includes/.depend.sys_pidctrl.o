@@ -1,0 +1,2 @@
+sys_pidctrl.o: sys_pidctrl.c \
+  /home/sfymmik/NSAS-OS-build/home/sfymmik/NSAS-OS-PRE-ALPHA/amd64.amd64/tmp/usr/include/sys/pidctrl.h

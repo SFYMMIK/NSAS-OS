@@ -1,0 +1,2 @@
+sys_nv_namespace.o: sys_nv_namespace.c \
+  /home/sfymmik/NSAS-OS-build/home/sfymmik/NSAS-OS-PRE-ALPHA/amd64.amd64/tmp/usr/include/sys/nv_namespace.h

@@ -1,0 +1,2 @@
+netlink_netlink_debug.o: netlink_netlink_debug.c \
+  /home/sfymmik/NSAS-OS-build/home/sfymmik/NSAS-OS-PRE-ALPHA/amd64.amd64/tmp/usr/include/netlink/netlink_debug.h

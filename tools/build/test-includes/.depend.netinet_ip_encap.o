@@ -1,0 +1,2 @@
+netinet_ip_encap.o: netinet_ip_encap.c \
+  /home/sfymmik/NSAS-OS-build/home/sfymmik/NSAS-OS-PRE-ALPHA/amd64.amd64/tmp/usr/include/netinet/ip_encap.h

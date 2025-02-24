@@ -1,0 +1,2 @@
+sys_ktr_class.o: sys_ktr_class.c \
+  /home/sfymmik/NSAS-OS-build/home/sfymmik/NSAS-OS-PRE-ALPHA/amd64.amd64/tmp/usr/include/sys/ktr_class.h
