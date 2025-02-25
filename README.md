@@ -1,6 +1,6 @@
 NSAS-OS Source:
 ---------------
-This is the top level of the FreeBSD source directory.
+This is the top level of the NSAS-OS source directory.
 
 NSAS-OS is an operating system used to power anything you want ig.
 
